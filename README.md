@@ -11,7 +11,7 @@ For each character concept, GTA IRL suggests clothing items, materials, and text
 #
 ![Trevor Philips](https://github.com/user-attachments/assets/0a6211c6-81f0-49a0-b247-4dfebf9f6ee3)
 #
-![GTA](https://github.com/user-attachments/assets/561a36d7-08f0-44f2-934c-781f2734be0b)
+![Trevor GTA5](https://github.com/user-attachments/assets/7d123185-921c-417b-9009-39c3774ecb0e)
 
 #
 ### Related Links
