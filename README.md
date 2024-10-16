@@ -1,4 +1,4 @@
-![GTA Concept](https://github.com/user-attachments/assets/add71b81-5785-4db4-b679-f4a55e863869)
+![GTA](https://github.com/user-attachments/assets/0c49f04d-cd5b-461a-bc2a-c45ab0abcc3e)
 
 > Create cosplay costumes for Grand Theft Auto using DALL-E 3.
 
