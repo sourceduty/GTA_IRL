@@ -11,7 +11,7 @@ GTA IRL follows a step-by-step, multiple-choice process to clarify user preferen
 #
 ### Related Links
 
-[CHatGPT](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [GTA8](https://github.com/sourceduty/Grand_Theft_Auto_8)
 <br>
